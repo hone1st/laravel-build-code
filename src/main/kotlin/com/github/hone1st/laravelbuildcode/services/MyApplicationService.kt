@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.hone1st.laravelbuildcode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.hone1st.laravelbuildcode.MyBundle
 
 class MyApplicationService {
 
